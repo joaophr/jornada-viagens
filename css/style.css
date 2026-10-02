@@ -30,6 +30,7 @@
     --text-weight: 400;
     --menu-text-weight: 500;
 
+    background-color: #000;
 }
 
 body, img, h1, p, fieldset, legend, label, input, select, textarea, button {
@@ -38,4 +39,4 @@ body, img, h1, p, fieldset, legend, label, input, select, textarea, button {
     box-sizing: border-box;
 }
 
-   
+
